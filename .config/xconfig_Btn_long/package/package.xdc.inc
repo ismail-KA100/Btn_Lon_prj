@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_Btn_long.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-B06
+package/xconfig_Btn_long.java
+package/xconfig_Btn_long.class
+package/package_xconfig_Btn_long.c
+package/package.defs.h
+package/xconfig_Btn_long.ccs

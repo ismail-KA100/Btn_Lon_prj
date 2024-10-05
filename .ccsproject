@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="0:Eclipse-based"/>
+	<ccsVersion value="12.5.0"/>
+	<deviceVariant value="MSP430FR6989"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.11.LTS"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.rtsc.TIRTOSmsp430.example_7,type=rtsc,products=com.ti.rtsc.TIRTOSmsp430,xdcToolsVersion=3_32_00_06_core,target=ti.targets.msp430.elf.MSP430X,platform=ti.platforms.msp430:MSP430FR6989,buildProfile=release,isHybrid=true,configuroOptions=--compileOptions &quot;${COMPILER_FLAGS} &quot;"/>
+	<filesToOpen value=""/>
+</projectOptions>

@@ -1,0 +1,10 @@
+"./Degre.obj"
+"./RTC.obj"
+"./hal_LCD.obj"
+"./main.obj"
+"../MSP_EXP430FR6989.cmd"
+-l"configPkg/linker.cmd"
+-llibmpu_init.a
+-llibmath.a
+-l"C:/ti/tirtos_msp43x_2_20_00_06/products/msp430_driverlib_2_70_01_01a/driverlib/MSP430FR5xx_6xx/ccs/MSP430FR6989.lib"
+-llibc.a
